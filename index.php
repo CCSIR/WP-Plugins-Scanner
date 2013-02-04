@@ -20,13 +20,13 @@ include_once('installer.php'); ?>
 <head>
 <script type="text/javascript" src="static/jquery.js"></script>
 <script type="text/javascript" src="static/scanner.js"></script>
-<title>WP Plugin Scanner</title>
+<title>Wordpress Plugins Scanner</title>
 <link type="text/css" rel="stylesheet" href="static/style.css" media="all" />
 </head>
 <body>
 	<div id="body">
 		<div id="header">
-			<h3 alt="Wordpress Plugin Scanner"><div>Plugin Scanner</div></h3>
+			<a href="https://github.com/CCSIR/WP-Plugins-Scanner" target="_blank"><h3 alt="Wordpress Plugins Scanner"><div>Plugins Scanner</div></h3></a>
 		</div>
 		<div id="content">
 			<div id="form_scan">
