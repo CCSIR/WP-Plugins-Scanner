@@ -15,9 +15,9 @@ You should have received a copy of the GNU General Public License along with thi
 
 **/
 set_time_limit(0);
-ini_set('memory_limit', '128M');
+ini_set('memory_limit', '256M');
 $version = '1.0'; 
-if(!is_dir('plugins')) mkdir(plugins);
+if(!is_dir('plugins')) mkdir('plugins');
 header("Content-Type: text/html");
 
 /* dispatcher */
