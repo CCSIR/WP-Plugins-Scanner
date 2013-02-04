@@ -41,15 +41,19 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 #header h3{
 	background:url("wp-logo.png") no-repeat;
-	width:510px;
+	width:530px;
 	height:63px; 
+}
+#header a {
+	text-decoration:none;
 }
 #header h3 div {
 	text-align:right;
-	font-weight:bold;
 	font-size:35px;
 	padding-top:12px;
 	color:#444;
+	font-family: Georgia;
+	font-weight: 600;
 }
 
 ul {
