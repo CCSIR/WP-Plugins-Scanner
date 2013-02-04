@@ -9,7 +9,7 @@ Wordpress Plugins Scanner
 * __Contact__ : andrei.avadanei [at] ccsir [dot] ro
 
 ##Snapshot
-
+![alt text](http://ccsir.ro/files/snapshot_wp_plugins_scanner_1.0.png "")
 
 ##Features
 ### 1.0 
