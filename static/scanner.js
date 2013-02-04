@@ -94,6 +94,15 @@ $(document).ready(function() {
 		}
 		return false;
 	});
+	$("#subscribe").click(function() {
+		$("#plugins").html('<div id="mc_embed_signup">' +
+            '<form action="http://ccsir.us6.list-manage.com/subscribe/post?u=0212450d6c00059ff5790f543&amp;id=000873e779" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank">' + 
+			'<br />Stay up to date with Cyber Security Research Center from Romania news! <br /><br /> '+
+            '<input type="text" type="email" value="" name="EMAIL" class="span4 input-large email" id="mce-EMAIL" placeholder="E-mail adress" required>' +
+            '<input type="button" onclick="$(\'#mc-embedded-subscribe-form\').submit();" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-large">' + 
+        '</form>' +
+        '</div>');
+	});
 	$("#clear").click(function() {
 		$("#plugins").html('');
 		$('#scan').hide();
