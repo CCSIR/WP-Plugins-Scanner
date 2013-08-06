@@ -20,7 +20,7 @@ Wordpress Plugins Scanner
 
 ##Help
   - No need. Just download these files and upload in an environment that supports PHP
-  - You can upgrade RIPS my rewriting rips/ directory
+  - You can upgrade RIPS by rewriting rips/ directory
   - Local storage for plugins is plugins/ directory
 
 ##License
