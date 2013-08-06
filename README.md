@@ -5,8 +5,8 @@ Wordpress Plugins Scanner
 > This tool can crawl plugins from Wordpress Directory and store them localy. After they are downloaded you can scan those plugins with OWASP RIPS and see possible security problems. 
 
 * __Version__ : 1.0
-* __Website__ : [Cyber Security Research Center from Romania](http://ccsir.ro)
-* __Contact__ : andrei.avadanei [at] ccsir [dot] ro
+* __Website__ : [Cyber Security Research Center from Romania](http://ccsir.org)
+* __Contact__ : contact [at] ccsir [dot] org
 
 ##Snapshot
 ![alt text](http://ccsir.ro/files/snapshot_wp_plugins_scanner_1.0.png "")
